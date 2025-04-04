@@ -72,7 +72,7 @@ MIT License (c) MikeSha
 
 ## Acknowledgments
 
-- ⁠Thanks to Meris for creating these incredible pedals
+⁠Thanks to Meris for creating these incredible pedals
 
 ## Contact
 
