@@ -2,6 +2,10 @@
 
 A Touch OSC interface for controlling Meris Enzo and Ottobit Jr guitar pedals with enhanced tempo capabilities.
 
+## Support me
+
+If you like what I'm doing, please support me: https://ko-fi.com/mykeshato
+
 ## Overview
 
 This project provides a custom Touch OSC interface for controlling Meris Enzo and Meris Ottobit Jr pedals. It offers comprehensive control over all pedal parameters and includes enhanced tempo features not available in the standard control interfaces.
@@ -78,10 +82,6 @@ MIT License (c) MikeSha
 
 •⁠  ⁠Thanks to Meris for creating these incredible pedals
 •⁠  ⁠The Touch OSC community for their support and inspiration
-
-## Support me
-
-If you like what I'm doing, please support me: https://ko-fi.com/mykeshato
 
 ## Contact
 
